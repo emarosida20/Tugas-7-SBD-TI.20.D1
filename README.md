@@ -27,7 +27,8 @@
 ![7](https://user-images.githubusercontent.com/101863671/173513613-789246e8-8809-4704-b5f3-c27a459b7de0.png)
 - Tabel User
 
-![8](https://user-images.githubusercontent.com/101863671/173514925-4f296968-a955-4e46-9d7f-03f778b28baa.png)
+![8](https://user-images.githubusercontent.com/101863671/173516201-32d975f9-0a4f-4747-a5b9-4d6a676dc7a2.png)
+
 
 ## 2. Buat halaman home untuk menampilkan jumlah data
 ![2](https://user-images.githubusercontent.com/101863671/173513396-79a3b531-06a7-4fa4-8060-f224b9d9891e.png)
